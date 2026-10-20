@@ -1,3 +1,3 @@
-# terraform-azurerm-avm-template
+# DNS Forwarding Ruleset
 
-This is a template repo for Terraform Azure Verified Modules.
+AVM Resource Module for DNS Forwarding Ruleset
